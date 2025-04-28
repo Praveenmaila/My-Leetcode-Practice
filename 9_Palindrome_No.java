@@ -9,7 +9,6 @@ class Solution {
       }
         if (sum==temp){
             return true;
-        }
-         else {return false;}
+        }  else {return false;}
     }
 }
